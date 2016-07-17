@@ -1,0 +1,917 @@
+[
+  {
+    "Date": "Apr-01",
+    "ADP": -207,
+    "BLS": -281
+  },
+  {
+    "Date": "May-01",
+    "ADP": -186,
+    "BLS": -38
+  },
+  {
+    "Date": "Jun-01",
+    "ADP": -172,
+    "BLS": -131
+  },
+  {
+    "Date": "Jul-01",
+    "ADP": -168,
+    "BLS": -112
+  },
+  {
+    "Date": "Aug-01",
+    "ADP": -219,
+    "BLS": -157
+  },
+  {
+    "Date": "Sep-01",
+    "ADP": -223,
+    "BLS": -240
+  },
+  {
+    "Date": "Oct-01",
+    "ADP": -414,
+    "BLS": -325
+  },
+  {
+    "Date": "Nov-01",
+    "ADP": -387,
+    "BLS": -293
+  },
+  {
+    "Date": "Dec-01",
+    "ADP": -259,
+    "BLS": -170
+  },
+  {
+    "Date": "Jan-02",
+    "ADP": -134,
+    "BLS": -138
+  },
+  {
+    "Date": "Feb-02",
+    "ADP": -103,
+    "BLS": -134
+  },
+  {
+    "Date": "Mar-02",
+    "ADP": -53,
+    "BLS": -20
+  },
+  {
+    "Date": "Apr-02",
+    "ADP": -68,
+    "BLS": -79
+  },
+  {
+    "Date": "May-02",
+    "ADP": -47,
+    "BLS": -7
+  },
+  {
+    "Date": "Jun-02",
+    "ADP": -96,
+    "BLS": 57
+  },
+  {
+    "Date": "Jul-02",
+    "ADP": -91,
+    "BLS": -85
+  },
+  {
+    "Date": "Aug-02",
+    "ADP": -32,
+    "BLS": -14
+  },
+  {
+    "Date": "Sep-02",
+    "ADP": -68,
+    "BLS": -59
+  },
+  {
+    "Date": "Oct-02",
+    "ADP": 5,
+    "BLS": 126
+  },
+  {
+    "Date": "Nov-02",
+    "ADP": 1,
+    "BLS": 10
+  },
+  {
+    "Date": "Dec-02",
+    "ADP": -12,
+    "BLS": -157
+  },
+  {
+    "Date": "Jan-03",
+    "ADP": -98,
+    "BLS": 92
+  },
+  {
+    "Date": "Feb-03",
+    "ADP": -69,
+    "BLS": -150
+  },
+  {
+    "Date": "Mar-03",
+    "ADP": -80,
+    "BLS": -209
+  },
+  {
+    "Date": "Apr-03",
+    "ADP": -70,
+    "BLS": -44
+  },
+  {
+    "Date": "May-03",
+    "ADP": -30,
+    "BLS": -8
+  },
+  {
+    "Date": "Jun-03",
+    "ADP": -11,
+    "BLS": 9
+  },
+  {
+    "Date": "Jul-03",
+    "ADP": 54,
+    "BLS": 24
+  },
+  {
+    "Date": "Aug-03",
+    "ADP": 88,
+    "BLS": -42
+  },
+  {
+    "Date": "Sep-03",
+    "ADP": 131,
+    "BLS": 104
+  },
+  {
+    "Date": "Oct-03",
+    "ADP": 141,
+    "BLS": 198
+  },
+  {
+    "Date": "Nov-03",
+    "ADP": 51,
+    "BLS": 17
+  },
+  {
+    "Date": "Dec-03",
+    "ADP": 85,
+    "BLS": 122
+  },
+  {
+    "Date": "Jan-04",
+    "ADP": 141,
+    "BLS": 162
+  },
+  {
+    "Date": "Feb-04",
+    "ADP": 183,
+    "BLS": 46
+  },
+  {
+    "Date": "Mar-04",
+    "ADP": 179,
+    "BLS": 332
+  },
+  {
+    "Date": "Apr-04",
+    "ADP": 209,
+    "BLS": 249
+  },
+  {
+    "Date": "May-04",
+    "ADP": 170,
+    "BLS": 308
+  },
+  {
+    "Date": "Jun-04",
+    "ADP": 210,
+    "BLS": 76
+  },
+  {
+    "Date": "Jul-04",
+    "ADP": 140,
+    "BLS": 44
+  },
+  {
+    "Date": "Aug-04",
+    "ADP": 104,
+    "BLS": 121
+  },
+  {
+    "Date": "Sep-04",
+    "ADP": 125,
+    "BLS": 164
+  },
+  {
+    "Date": "Oct-04",
+    "ADP": 205,
+    "BLS": 346
+  },
+  {
+    "Date": "Nov-04",
+    "ADP": 36,
+    "BLS": 64
+  },
+  {
+    "Date": "Dec-04",
+    "ADP": 130,
+    "BLS": 130
+  },
+  {
+    "Date": "Jan-05",
+    "ADP": 136,
+    "BLS": 134
+  },
+  {
+    "Date": "Feb-05",
+    "ADP": 162,
+    "BLS": 239
+  },
+  {
+    "Date": "Mar-05",
+    "ADP": 231,
+    "BLS": 136
+  },
+  {
+    "Date": "Apr-05",
+    "ADP": 188,
+    "BLS": 365
+  },
+  {
+    "Date": "May-05",
+    "ADP": 248,
+    "BLS": 174
+  },
+  {
+    "Date": "Jun-05",
+    "ADP": 188,
+    "BLS": 247
+  },
+  {
+    "Date": "Jul-05",
+    "ADP": 220,
+    "BLS": 376
+  },
+  {
+    "Date": "Aug-05",
+    "ADP": 243,
+    "BLS": 194
+  },
+  {
+    "Date": "Sep-05",
+    "ADP": 207,
+    "BLS": 68
+  },
+  {
+    "Date": "Oct-05",
+    "ADP": 151,
+    "BLS": 85
+  },
+  {
+    "Date": "Nov-05",
+    "ADP": 279,
+    "BLS": 337
+  },
+  {
+    "Date": "Dec-05",
+    "ADP": 155,
+    "BLS": 159
+  },
+  {
+    "Date": "Jan-06",
+    "ADP": 251,
+    "BLS": 278
+  },
+  {
+    "Date": "Feb-06",
+    "ADP": 357,
+    "BLS": 316
+  },
+  {
+    "Date": "Mar-06",
+    "ADP": 233,
+    "BLS": 281
+  },
+  {
+    "Date": "Apr-06",
+    "ADP": 153,
+    "BLS": 183
+  },
+  {
+    "Date": "May-06",
+    "ADP": 151,
+    "BLS": 23
+  },
+  {
+    "Date": "Jun-06",
+    "ADP": 133,
+    "BLS": 82
+  },
+  {
+    "Date": "Jul-06",
+    "ADP": 144,
+    "BLS": 207
+  },
+  {
+    "Date": "Aug-06",
+    "ADP": 149,
+    "BLS": 181
+  },
+  {
+    "Date": "Sep-06",
+    "ADP": 41,
+    "BLS": 158
+  },
+  {
+    "Date": "Oct-06",
+    "ADP": 110,
+    "BLS": 4
+  },
+  {
+    "Date": "Nov-06",
+    "ADP": 172,
+    "BLS": 208
+  },
+  {
+    "Date": "Dec-06",
+    "ADP": 16,
+    "BLS": 171
+  },
+  {
+    "Date": "Jan-07",
+    "ADP": 167,
+    "BLS": 240
+  },
+  {
+    "Date": "Feb-07",
+    "ADP": 166,
+    "BLS": 90
+  },
+  {
+    "Date": "Mar-07",
+    "ADP": 89,
+    "BLS": 189
+  },
+  {
+    "Date": "Apr-07",
+    "ADP": 111,
+    "BLS": 79
+  },
+  {
+    "Date": "May-07",
+    "ADP": 28,
+    "BLS": 143
+  },
+  {
+    "Date": "Jun-07",
+    "ADP": 115,
+    "BLS": 78
+  },
+  {
+    "Date": "Jul-07",
+    "ADP": -6,
+    "BLS": -33
+  },
+  {
+    "Date": "Aug-07",
+    "ADP": -6,
+    "BLS": -24
+  },
+  {
+    "Date": "Sep-07",
+    "ADP": -52,
+    "BLS": 88
+  },
+  {
+    "Date": "Oct-07",
+    "ADP": -4,
+    "BLS": 85
+  },
+  {
+    "Date": "Nov-07",
+    "ADP": 104,
+    "BLS": 115
+  },
+  {
+    "Date": "Dec-07",
+    "ADP": -7,
+    "BLS": 97
+  },
+  {
+    "Date": "Jan-08",
+    "ADP": 25,
+    "BLS": 19
+  },
+  {
+    "Date": "Feb-08",
+    "ADP": -32,
+    "BLS": -86
+  },
+  {
+    "Date": "Mar-08",
+    "ADP": -87,
+    "BLS": -78
+  },
+  {
+    "Date": "Apr-08",
+    "ADP": -200,
+    "BLS": -210
+  },
+  {
+    "Date": "May-08",
+    "ADP": -207,
+    "BLS": -185
+  },
+  {
+    "Date": "Jun-08",
+    "ADP": -268,
+    "BLS": -165
+  },
+  {
+    "Date": "Jul-08",
+    "ADP": -297,
+    "BLS": -209
+  },
+  {
+    "Date": "Aug-08",
+    "ADP": -309,
+    "BLS": -266
+  },
+  {
+    "Date": "Sep-08",
+    "ADP": -368,
+    "BLS": -452
+  },
+  {
+    "Date": "Oct-08",
+    "ADP": -413,
+    "BLS": -473
+  },
+  {
+    "Date": "Nov-08",
+    "ADP": -630,
+    "BLS": -769
+  },
+  {
+    "Date": "Dec-08",
+    "ADP": -749,
+    "BLS": -695
+  },
+  {
+    "Date": "Jan-09",
+    "ADP": -770,
+    "BLS": -791
+  },
+  {
+    "Date": "Feb-09",
+    "ADP": -881,
+    "BLS": -703
+  },
+  {
+    "Date": "Mar-09",
+    "ADP": -767,
+    "BLS": -823
+  },
+  {
+    "Date": "Apr-09",
+    "ADP": -628,
+    "BLS": -686
+  },
+  {
+    "Date": "May-09",
+    "ADP": -511,
+    "BLS": -351
+  },
+  {
+    "Date": "Jun-09",
+    "ADP": -383,
+    "BLS": -470
+  },
+  {
+    "Date": "Jul-09",
+    "ADP": -304,
+    "BLS": -329
+  },
+  {
+    "Date": "Aug-09",
+    "ADP": -214,
+    "BLS": -212
+  },
+  {
+    "Date": "Sep-09",
+    "ADP": -159,
+    "BLS": -219
+  },
+  {
+    "Date": "Oct-09",
+    "ADP": -114,
+    "BLS": -200
+  },
+  {
+    "Date": "Nov-09",
+    "ADP": -162,
+    "BLS": -7
+  },
+  {
+    "Date": "Dec-09",
+    "ADP": -97,
+    "BLS": -279
+  },
+  {
+    "Date": "Jan-10",
+    "ADP": -48,
+    "BLS": 28
+  },
+  {
+    "Date": "Feb-10",
+    "ADP": 12,
+    "BLS": -69
+  },
+  {
+    "Date": "Mar-10",
+    "ADP": 18,
+    "BLS": 163
+  },
+  {
+    "Date": "Apr-10",
+    "ADP": 106,
+    "BLS": 243
+  },
+  {
+    "Date": "May-10",
+    "ADP": 180,
+    "BLS": 522
+  },
+  {
+    "Date": "Jun-10",
+    "ADP": 102,
+    "BLS": -133
+  },
+  {
+    "Date": "Jul-10",
+    "ADP": 98,
+    "BLS": -70
+  },
+  {
+    "Date": "Aug-10",
+    "ADP": 95,
+    "BLS": -34
+  },
+  {
+    "Date": "Sep-10",
+    "ADP": 95,
+    "BLS": -52
+  },
+  {
+    "Date": "Oct-10",
+    "ADP": 154,
+    "BLS": 257
+  },
+  {
+    "Date": "Nov-10",
+    "ADP": 171,
+    "BLS": 123
+  },
+  {
+    "Date": "Dec-10",
+    "ADP": 86,
+    "BLS": 88
+  },
+  {
+    "Date": "Jan-11",
+    "ADP": 197,
+    "BLS": 42
+  },
+  {
+    "Date": "Feb-11",
+    "ADP": 158,
+    "BLS": 188
+  },
+  {
+    "Date": "Mar-11",
+    "ADP": 282,
+    "BLS": 225
+  },
+  {
+    "Date": "Apr-11",
+    "ADP": 231,
+    "BLS": 346
+  },
+  {
+    "Date": "May-11",
+    "ADP": 239,
+    "BLS": 73
+  },
+  {
+    "Date": "Jun-11",
+    "ADP": 170,
+    "BLS": 235
+  },
+  {
+    "Date": "Jul-11",
+    "ADP": 187,
+    "BLS": 70
+  },
+  {
+    "Date": "Aug-11",
+    "ADP": 200,
+    "BLS": 107
+  },
+  {
+    "Date": "Sep-11",
+    "ADP": 344,
+    "BLS": 246
+  },
+  {
+    "Date": "Oct-11",
+    "ADP": 129,
+    "BLS": 202
+  },
+  {
+    "Date": "Nov-11",
+    "ADP": 261,
+    "BLS": 146
+  },
+  {
+    "Date": "Dec-11",
+    "ADP": 197,
+    "BLS": 207
+  },
+  {
+    "Date": "Jan-12",
+    "ADP": 242,
+    "BLS": 338
+  },
+  {
+    "Date": "Feb-12",
+    "ADP": 326,
+    "BLS": 257
+  },
+  {
+    "Date": "Mar-12",
+    "ADP": 188,
+    "BLS": 239
+  },
+  {
+    "Date": "Apr-12",
+    "ADP": 190,
+    "BLS": 75
+  },
+  {
+    "Date": "May-12",
+    "ADP": 131,
+    "BLS": 115
+  },
+  {
+    "Date": "Jun-12",
+    "ADP": 81,
+    "BLS": 87
+  },
+  {
+    "Date": "Jul-12",
+    "ADP": 167,
+    "BLS": 143
+  },
+  {
+    "Date": "Aug-12",
+    "ADP": 172,
+    "BLS": 190
+  },
+  {
+    "Date": "Sep-12",
+    "ADP": 170,
+    "BLS": 181
+  },
+  {
+    "Date": "Oct-12",
+    "ADP": 189,
+    "BLS": 132
+  },
+  {
+    "Date": "Nov-12",
+    "ADP": 214,
+    "BLS": 149
+  },
+  {
+    "Date": "Dec-12",
+    "ADP": 144,
+    "BLS": 243
+  },
+  {
+    "Date": "Jan-13",
+    "ADP": 181,
+    "BLS": 190
+  },
+  {
+    "Date": "Feb-13",
+    "ADP": 256,
+    "BLS": 311
+  },
+  {
+    "Date": "Mar-13",
+    "ADP": 128,
+    "BLS": 135
+  },
+  {
+    "Date": "Apr-13",
+    "ADP": 118,
+    "BLS": 192
+  },
+  {
+    "Date": "May-13",
+    "ADP": 169,
+    "BLS": 218
+  },
+  {
+    "Date": "Jun-13",
+    "ADP": 196,
+    "BLS": 146
+  },
+  {
+    "Date": "Jul-13",
+    "ADP": 256,
+    "BLS": 140
+  },
+  {
+    "Date": "Aug-13",
+    "ADP": 187,
+    "BLS": 269
+  },
+  {
+    "Date": "Sep-13",
+    "ADP": 231,
+    "BLS": 185
+  },
+  {
+    "Date": "Oct-13",
+    "ADP": 188,
+    "BLS": 189
+  },
+  {
+    "Date": "Nov-13",
+    "ADP": 211,
+    "BLS": 291
+  },
+  {
+    "Date": "Dec-13",
+    "ADP": 204,
+    "BLS": 45
+  },
+  {
+    "Date": "Jan-14",
+    "ADP": 175,
+    "BLS": 187
+  },
+  {
+    "Date": "Feb-14",
+    "ADP": 209,
+    "BLS": 168
+  },
+  {
+    "Date": "Mar-14",
+    "ADP": 200,
+    "BLS": 272
+  },
+  {
+    "Date": "Apr-14",
+    "ADP": 254,
+    "BLS": 310
+  },
+  {
+    "Date": "May-14",
+    "ADP": 267,
+    "BLS": 213
+  },
+  {
+    "Date": "Jun-14",
+    "ADP": 277,
+    "BLS": 306
+  },
+  {
+    "Date": "Jul-14",
+    "ADP": 221,
+    "BLS": 232
+  },
+  {
+    "Date": "Aug-14",
+    "ADP": 221,
+    "BLS": 218
+  },
+  {
+    "Date": "Sep-14",
+    "ADP": 209,
+    "BLS": 286
+  },
+  {
+    "Date": "Oct-14",
+    "ADP": 229,
+    "BLS": 200
+  },
+  {
+    "Date": "Nov-14",
+    "ADP": 269,
+    "BLS": 331
+  },
+  {
+    "Date": "Dec-14",
+    "ADP": 276,
+    "BLS": 292
+  },
+  {
+    "Date": "Jan-15",
+    "ADP": 208,
+    "BLS": 221
+  },
+  {
+    "Date": "Feb-15",
+    "ADP": 211,
+    "BLS": 265
+  },
+  {
+    "Date": "Mar-15",
+    "ADP": 184,
+    "BLS": 84
+  },
+  {
+    "Date": "Apr-15",
+    "ADP": 191,
+    "BLS": 251
+  },
+  {
+    "Date": "May-15",
+    "ADP": 192,
+    "BLS": 273
+  },
+  {
+    "Date": "Jun-15",
+    "ADP": 307,
+    "BLS": 228
+  },
+  {
+    "Date": "Jul-15",
+    "ADP": 158,
+    "BLS": 277
+  },
+  {
+    "Date": "Aug-15",
+    "ADP": 201,
+    "BLS": 150
+  },
+  {
+    "Date": "Sep-15",
+    "ADP": 171,
+    "BLS": 149
+  },
+  {
+    "Date": "Oct-15",
+    "ADP": 178,
+    "BLS": 295
+  },
+  {
+    "Date": "Nov-15",
+    "ADP": 193,
+    "BLS": 280
+  },
+  {
+    "Date": "Dec-15",
+    "ADP": 287,
+    "BLS": 271
+  },
+  {
+    "Date": "Jan-16",
+    "ADP": 193,
+    "BLS": 168
+  },
+  {
+    "Date": "Feb-16",
+    "ADP": 207,
+    "BLS": 233
+  },
+  {
+    "Date": "Mar-16",
+    "ADP": 201,
+    "BLS": 186
+  },
+  {
+    "Date": "Apr-16",
+    "ADP": 149,
+    "BLS": 144
+  },
+  {
+    "Date": "May-16",
+    "ADP": 168,
+    "BLS": 11
+  },
+  {
+    "Date": "Jun-16",
+    "ADP": 172,
+    "BLS": 287
+  }
+]
